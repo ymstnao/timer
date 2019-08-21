@@ -63,7 +63,7 @@ public class Timer : MonoBehaviour
 				text.text = "Start";
 				counter = 0;
 				manager.Result(result.text);
-				result.text = "0:0";
+				result.text = "00:0";
 				break;
 		}
 
